@@ -1,0 +1,10 @@
+a:hover{
+    color: brown;
+}
+
+table, tr, th, td, caption{
+    border: 1px solid whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    padding: 1rem;
+}
